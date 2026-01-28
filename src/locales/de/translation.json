@@ -1,0 +1,37 @@
+{
+    "nav": {
+        "home": "Startseite",
+        "skills": "Fähigkeiten",
+        "projects": "Projekte",
+        "contact": "Kontakt"
+    },
+    "hero": {
+        "greeting": "Hallo, ich bin",
+        "title": "Data Scientist & Data Engineer",
+        "description": "Daten in umsetzbare Erkenntnisse verwandeln durch fortgeschrittene Analytik, maschinelles Lernen und skalierbare Dateninfrastruktur.",
+        "cta_projects": "Projekte ansehen",
+        "cta_contact": "Kontakt aufnehmen"
+    },
+    "skills": {
+        "title": "Tech Stack",
+        "subtitle": "Technologien und Tools, mit denen ich arbeite",
+        "categories": {
+            "data_science": "Data Science & ML",
+            "engineering": "Data Engineering",
+            "tools": "Tools & Plattformen"
+        }
+    },
+    "projects": {
+        "title": "Ausgewählte Projekte",
+        "subtitle": "Eine Auswahl meiner neuesten Arbeiten",
+        "view_code": "Code ansehen",
+        "live_demo": "Live-Demo"
+    },
+    "contact": {
+        "title": "Kontakt",
+        "subtitle": "Kontaktieren Sie mich gerne für Zusammenarbeit oder Möglichkeiten",
+        "email": "E-Mail",
+        "github": "GitHub",
+        "linkedin": "LinkedIn"
+    }
+}

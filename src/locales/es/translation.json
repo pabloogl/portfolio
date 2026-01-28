@@ -1,0 +1,37 @@
+{
+    "nav": {
+        "home": "Inicio",
+        "skills": "Habilidades",
+        "projects": "Proyectos",
+        "contact": "Contacto"
+    },
+    "hero": {
+        "greeting": "Hola, soy",
+        "title": "Científico de Datos e Ingeniero de Datos",
+        "description": "Transformando datos en insights accionables mediante análisis avanzado, machine learning e infraestructura de datos escalable.",
+        "cta_projects": "Ver Proyectos",
+        "cta_contact": "Contactar"
+    },
+    "skills": {
+        "title": "Stack Técnico",
+        "subtitle": "Tecnologías y herramientas con las que trabajo",
+        "categories": {
+            "data_science": "Data Science y ML",
+            "engineering": "Ingeniería de Datos",
+            "tools": "Herramientas y Plataformas"
+        }
+    },
+    "projects": {
+        "title": "Proyectos Destacados",
+        "subtitle": "Una selección de mi trabajo reciente",
+        "view_code": "Ver Código",
+        "live_demo": "Demo en Vivo"
+    },
+    "contact": {
+        "title": "Contacto",
+        "subtitle": "No dudes en contactarme para colaboraciones u oportunidades",
+        "email": "Email",
+        "github": "GitHub",
+        "linkedin": "LinkedIn"
+    }
+}

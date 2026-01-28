@@ -1,0 +1,37 @@
+{
+    "nav": {
+        "home": "Home",
+        "skills": "Skills",
+        "projects": "Projects",
+        "contact": "Contact"
+    },
+    "hero": {
+        "greeting": "Hi, I'm",
+        "title": "Data Scientist & Data Engineer",
+        "description": "Transforming data into actionable insights through advanced analytics, machine learning, and scalable data infrastructure.",
+        "cta_projects": "View Projects",
+        "cta_contact": "Get in Touch"
+    },
+    "skills": {
+        "title": "Tech Stack",
+        "subtitle": "Technologies and tools I work with",
+        "categories": {
+            "data_science": "Data Science & ML",
+            "engineering": "Data Engineering",
+            "tools": "Tools & Platforms"
+        }
+    },
+    "projects": {
+        "title": "Featured Projects",
+        "subtitle": "A selection of my recent work",
+        "view_code": "View Code",
+        "live_demo": "Live Demo"
+    },
+    "contact": {
+        "title": "Get In Touch",
+        "subtitle": "Feel free to reach out for collaborations or opportunities",
+        "email": "Email",
+        "github": "GitHub",
+        "linkedin": "LinkedIn"
+    }
+}
