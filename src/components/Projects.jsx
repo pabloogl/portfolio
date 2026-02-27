@@ -8,7 +8,7 @@ const Projects = () => {
 
     useEffect(() => {
         // Load projects from JSON file
-        fetch('/projects.json')
+        fetch('./projects.json')
             .then(response => response.json())
             .then(data => setProjects(data))
             .catch(error => console.error('Error loading projects:', error));
