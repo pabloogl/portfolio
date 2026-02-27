@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "title": "Customer Churn Prediction",
+        "description": {
+            "en": "Machine learning model to predict customer churn using ensemble methods. Achieved 92% accuracy with feature engineering and hyperparameter tuning.",
+            "es": "Modelo de machine learning para predecir la pérdida de clientes usando métodos ensemble. Logré 92% de precisión con ingeniería de características y ajuste de hiperparámetros.",
+            "de": "Machine-Learning-Modell zur Vorhersage von Kundenabwanderung mit Ensemble-Methoden. 92% Genauigkeit durch Feature Engineering und Hyperparameter-Tuning erreicht."
+        },
+        "technologies": [
+            "Python",
+            "Scikit-learn",
+            "Pandas",
+            "XGBoost"
+        ],
+        "githubUrl": "https://github.com/pabloogl/churn-prediction",
+        "demoUrl": null,
+        "image": null
+    },
+    {
+        "id": 2,
+        "title": "Real-time Data Pipeline",
+        "description": {
+            "en": "Scalable ETL pipeline processing 1M+ events per day using Apache Kafka and Spark. Reduced data latency by 80%.",
+            "es": "Pipeline ETL escalable que procesa más de 1M de eventos por día usando Apache Kafka y Spark. Redujo la latencia de datos en un 80%.",
+            "de": "Skalierbare ETL-Pipeline zur Verarbeitung von über 1 Mio. Ereignissen pro Tag mit Apache Kafka und Spark. Datenlatenz um 80% reduziert."
+        },
+        "technologies": [
+            "Apache Kafka",
+            "Spark",
+            "Python",
+            "AWS"
+        ],
+        "githubUrl": "https://github.com/pabloogl/data-pipeline",
+        "demoUrl": null,
+        "image": null
+    },
+    {
+        "id": 3,
+        "title": "Sales Forecasting Dashboard",
+        "description": {
+            "en": "Interactive dashboard for sales forecasting using time series analysis. Implemented ARIMA and Prophet models with 95% confidence intervals.",
+            "es": "Dashboard interactivo para pronóstico de ventas usando análisis de series temporales. Implementé modelos ARIMA y Prophet con intervalos de confianza del 95%.",
+            "de": "Interaktives Dashboard für Verkaufsprognosen mit Zeitreihenanalyse. ARIMA- und Prophet-Modelle mit 95% Konfidenzintervallen implementiert."
+        },
+        "technologies": [
+            "Python",
+            "Prophet",
+            "Plotly",
+            "Streamlit"
+        ],
+        "githubUrl": "https://github.com/pabloogl/sales-forecast",
+        "demoUrl": "https://sales-forecast-demo.streamlit.app",
+        "image": null
+    },
+    {
+        "id": 4,
+        "title": "NLP Sentiment Analysis",
+        "description": {
+            "en": "Multi-language sentiment analysis system for social media monitoring. Processes 10K+ posts daily with 89% accuracy across 5 languages.",
+            "es": "Sistema de análisis de sentimientos multiidioma para monitoreo de redes sociales. Procesa más de 10K publicaciones diarias con 89% de precisión en 5 idiomas.",
+            "de": "Mehrsprachiges Sentiment-Analyse-System für Social-Media-Monitoring. Verarbeitet täglich über 10.000 Beiträge mit 89% Genauigkeit in 5 Sprachen."
+        },
+        "technologies": [
+            "Python",
+            "Transformers",
+            "BERT",
+            "FastAPI"
+        ],
+        "githubUrl": "https://github.com/pabloogl/sentiment-analysis",
+        "demoUrl": null,
+        "image": null
+    },
+    {
+        "id": 5,
+        "title": "Data Warehouse Optimization",
+        "description": {
+            "en": "Redesigned data warehouse architecture reducing query times by 60% and storage costs by 40%. Implemented star schema and partitioning strategies.",
+            "es": "Rediseñé la arquitectura del data warehouse reduciendo los tiempos de consulta en un 60% y los costos de almacenamiento en un 40%. Implementé esquema estrella y estrategias de particionamiento.",
+            "de": "Data-Warehouse-Architektur neu gestaltet, Abfragezeiten um 60% und Speicherkosten um 40% reduziert. Star-Schema und Partitionierungsstrategien implementiert."
+        },
+        "technologies": [
+            "PostgreSQL",
+            "dbt",
+            "Redshift",
+            "SQL"
+        ],
+        "githubUrl": "https://github.com/pabloogl/dw-optimization",
+        "demoUrl": null,
+        "image": null
+    },
+    {
+        "id": 6,
+        "title": "Recommendation Engine",
+        "description": {
+            "en": "Collaborative filtering recommendation system serving 100K+ users. Implemented matrix factorization and deep learning approaches.",
+            "es": "Sistema de recomendación por filtrado colaborativo que sirve a más de 100K usuarios. Implementé factorización de matrices y enfoques de deep learning.",
+            "de": "Collaborative-Filtering-Empfehlungssystem für über 100.000 Benutzer. Matrixfaktorisierung und Deep-Learning-Ansätze implementiert."
+        },
+        "technologies": [
+            "Python",
+            "TensorFlow",
+            "Redis",
+            "Docker"
+        ],
+        "githubUrl": "https://github.com/pabloogl/recommendation-engine",
+        "demoUrl": null,
+        "image": null
+    }
+]
