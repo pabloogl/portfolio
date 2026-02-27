@@ -7,7 +7,7 @@
     },
     "hero": {
         "greeting": "Hi, I'm",
-        "title": "Data Scientist & Data Engineer",
+        "title": "Data Scientist",
         "description": "Transforming data into actionable insights through advanced analytics, machine learning, and scalable data infrastructure.",
         "cta_projects": "View Projects",
         "cta_contact": "Get in Touch"

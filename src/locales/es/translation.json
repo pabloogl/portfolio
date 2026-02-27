@@ -7,7 +7,7 @@
     },
     "hero": {
         "greeting": "Hola, soy",
-        "title": "Científico de Datos e Ingeniero de Datos",
+        "title": "Científico de Datos",
         "description": "Transformando datos en insights accionables mediante análisis avanzado, machine learning e infraestructura de datos escalable.",
         "cta_projects": "Ver Proyectos",
         "cta_contact": "Contactar"
