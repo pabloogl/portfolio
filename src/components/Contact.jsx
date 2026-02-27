@@ -8,8 +8,8 @@ const Contact = () => {
         {
             icon: Mail,
             label: t('contact.email'),
-            value: 'pablo@example.com',
-            href: 'mailto:pablo@example.com',
+            value: 'xpabloguerrerox@gmail.com',
+            href: 'mailto:xpabloguerrerox@gmail.com',
             color: 'bg-red-500 hover:bg-red-600'
         },
         {
@@ -23,7 +23,7 @@ const Contact = () => {
             icon: Linkedin,
             label: t('contact.linkedin'),
             value: 'linkedin.com/in/pablo',
-            href: 'https://linkedin.com/in/pablo',
+            href: 'https://www.linkedin.com/in/pablo-guerrero-lucas-ab44a6242',
             color: 'bg-blue-600 hover:bg-blue-700'
         }
     ];
