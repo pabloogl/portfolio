@@ -7,8 +7,9 @@ const Projects = () => {
     const [projects, setProjects] = useState([]);
 
     useEffect(() => {
-        // Load projects from JSON file
-        fetch('./projects.json')
+        // Load projects from JSON file using the correct base URL
+        const baseUrl = import.meta.env.BASE_URL;
+        fetch(`${baseUrl}projects.json`)
             .then(response => response.json())
             .then(data => setProjects(data))
             .catch(error => console.error('Error loading projects:', error));
